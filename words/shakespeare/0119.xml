@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="uniform">Plays</title>
+        <title type="main">First folio of Shakespeare: machine readable text format</title>
+        <author>Shakespeare, William, 1564-1616</author>
+        <editor role="editor">Wells, Stanley W., 1930-</editor>
+        <respStmt>
+          <resp>creation of machine-readable version</resp>
+          <name>The Oxford Shakespeare</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <seg type="designation">Text data</seg>
+        <seg type="size">(38 files : ca. 5.6 megabytes)</seg>
+      </extent>
+      <publicationStmt>
+        <authority>[Depositor details removed]<date/></authority>
+        <distributor>
+          <orgName type="OTA">Oxford Text Archive</orgName>
+          <placeName>Oxford</placeName>
+          <address>
+            <orgName type="OTA">Oxford Text Archive</orgName>
+            <orgName type="OUCS">Oxford University Computing
+          Services</orgName>
+            <addrLine>13 Banbury Road</addrLine>
+            <addrLine>Oxford</addrLine>
+            <addrLine>OX2 6NN</addrLine>
+          </address>
+          <email>ota@oucs.ox.ac.uk</email>
+        </distributor>
+        <idno type="ota">0119</idno>
+        <!--New OTA availability statement-->
+        <availability n="OTA-new" status="free" rend="visible">
+          <p>Freely available for non-commercial 
+         use provided that this header is included in its 
+         entirety with any copy distributed.</p>
+        </availability>
+        <!--Old Availability-->
+        <availability status="free">
+          <p>Freely available for non-commercial use provided that this header is included in its entirety with any copy distributed</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note anchored="true">Mode of access: Online. OTA website</note>
+        <note anchored="true">Title proper taken from shakdoc.0119 (i.e. a file in the electronic text)</note>
+        <note anchored="true">SGML TEI Lite markup version of this text (0019) available at 1694</note>
+        <note anchored="true">Analysis of transcription and encoding carried out by the Oxford Text Archive at the Oxford University Computing Service and contained in the file, shakdoc.0119</note>
+        <note anchored="true">Publication based on this text:  The complete works / William Shakespeare ; general editors, Stanley Wells and Gary Taylor ; editors Stanley Wells ... [et al.] ; with introductions by Stanley Wells. -- Oxford : Clarendon Press, 1986. -- (Oxford Shakespeare). -- ISBN 0-19-812926-2</note>
+        <note anchored="true">Publication based on this text: The complete works / William Shakespeare ; general editors, Stanley Wells and Gary Taylor ; editors, Stanley Wells ... [et al.] ; with introductions by Stanley Wells ; and an essay on Shakespeare's spelling and punctuation by Vivian Salmon. -- Original-spelling ed. / Stanley Wells ... [et al.]. -- Oxford : Clarendon Press, 1986. -- (Oxford Shakespeare). -- ISBN 0-19-812919-X</note>
+        <note anchored="true">Another publication of interest: William Shakespeare : a textual companion / by Stanley Wells and Gary Taylor, with John Jowett and William Montgomery. -- Oxford : Clarendon Press, 1987. -- Partial contents: Pp. 69-109. The canon and chronology of Shakespeare's plays -- pp. 80-89. Function words. -- ISBN 0-19-812914-9</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Shakespeares comedies, histories &amp; tragedies : being a reproduction in facsimile of the first folio edition, 1623, from the Chatsworth copy in the possession of the Duke of Devonshire, K.G. / with introduction and census of copies by Sidney Lee</title>
+            <author>Shakespeare, William, 1564-1616</author>
+            <editor role="editor">Lee, Sidney, Sir, 1859-1926</editor>
+          </titleStmt>
+          <extent>xxxv, 908 p. : facsims. ; 39 cm.</extent>
+          <publicationStmt>
+            <publisher>Clarendon Press</publisher>
+            <pubPlace>Oxford</pubPlace>
+            <date>1902</date>
+          </publicationStmt>
+          <notesStmt>
+            <note anchored="true">"One thousand copies of this facsimile have been printed"--verso of half t.p.</note>
+            <note anchored="true">Facsim. reprint of ed. published, London : printed by Issac Iaggard and Ed.[ward] Blount, 1623 with original t.p.: Mr. William Shakespeares comedies, histories, &amp; tragedies</note>
+            <note anchored="true">Original colophon reads: Printed at the charges of W.[illiam] Iaggard, Ed.[ward] Blount, I.[ohn] Smithweeke [i.e. Smethwick], and W.[illiam] Aspley, 1623</note>
+            <note anchored="true">Contents: The tempest. The two gentlemen of Verona. The merry wives of Windsor. Measvre, for measure. The comedie of errors. Much adoe about nothing. Loues labour's lost. A midsommer nights dreame. The merchant of Venice. As you like it. The taming of the shrew. All's well, that ends well. Twelfe night, or what you will. The winters tale. The life and death of King Iohn. The life and death of King Richard the second. The first part of Henry the fourth. The second part of Henry the fourth. The life of Henry the fift. The first part of Henry the sixt. The second part of Henry the sixt. The third part of Henry the sixt. The tragedy of Richard the third. The famous history of the life of King Henry the eight. The tragedie of Troylus and Cressida. The tragedy of Coriolanvs. The lamentable tragedy of Titus Andronicus. The tragedie of Romeo and Ivliet. The life of Tymon of Athens. The tragedie of Ivlivs Caesar. The tragedie of Macbeth. The tragedie of Hamlet, Prince of Denmarke. The tragedie of King Lear. The tragedie of Othello, the moore of Venice. The tragedie of Anthonie, and Cleopatra. The tragedie of Cymbeline</note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Oxford Shakespeare Transcripts are exact reproductions in computer-readable form of bibliographically significant early printed texts of Shakespeare. The texts were originally prepared by Trevor Howard-Hill for use in his single colume concordances to Shakespeare (OUP, 1969f). They have since been reformatted to modern standards and carefully proofread by staff of Oxford University Press' Shakespeare Department for use in the new "Old Spelling" Oxford Shakespeare, under the general editorship of Dr Stanley Wells</p>
+      </projectDesc>
+      <samplingDecl>
+        <p/>
+      </samplingDecl>
+      <editorialDecl>
+        <p>Encoding format: COCOA markup references used</p>
+        <p>Each text line corresponds with the same line in the copy text and begins with a space</p>
+        <p>* beginning a line instead of a space indicates a fully justified line -- i.e. a line where it is possible that the spelling has been affected by the compositor's need to fit several words to his measure</p>
+        <p>For folio texts the lineation corresponds with that established by Hinman, except that words broken at the end of a line are given in full at the end of the line in which they begin</p>
+        <p>Hyphenation has been retained when a word is broken over two lines</p>
+        <p># appears in those situations where hyphenation has been retained because of a word breaking over two lines in the copy text and the word in question would most probably have had a hyphen anyway -- eg. lily-#livered man.</p>
+        <p># is also used to distinguish some common homographs -- eg. "#will" (i.e. legacy) is distinguished from "will" (auxiliary verb)</p>
+        <p>% marks a hyphen where words hyphenated across a boundary have been joined together and included at the end of the first line</p>
+        <p>_ is used to indicate that a blank line did not appear in the original text where the second part of a hyphenated word was the only word on that line and has been carried back to the line above in the electronic transcription</p>
+        <p>Turnovers have been joined together on the first line, and the character "|" has been used to mark this point</p>
+        <p>The full upper and lower case character set is used, with all spelling and typographical variations carefully preserved, with the exception of long and short s which are not distinguished. I/J and U/V are preserved</p>
+        <p>{} enclose italicised sections of the text</p>
+      </editorialDecl>
+      <refsDecl>
+        <p>&lt;A&gt; authorial attribution code</p>
+        <p>&lt;C&gt; compositor attribution</p>
+        <p>&lt;&gt; </p>
+        <p>&lt;P&gt; signature</p>
+        <p>&lt;T&gt; play title</p>
+        <p>&lt;Y&gt; when it appears indicates the probable type of copy: Q = quarto; M = foul papers</p>
+        <p>&lt;S&gt; speaker -- the name of the speaker appears between {}</p>
+        <p>&lt;Z&gt; Act/Scene, dramatis personae, etc.</p>
+        <p>&lt;D&gt; stage direction -- in some texts, stage directions are enclosed in double parentheses ((...)) in preference; this makes the text more easily processed by some software</p>
+      </refsDecl>
+      <classDecl>
+        <taxonomy xml:id="otash">
+          <bibl>Oxford Text Archive Subject Headings</bibl>
+        </taxonomy>
+        <taxonomy xml:id="lcsh">
+          <bibl>Library of Congress Subject Headings</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+      </creation>
+      <langUsage>
+        <language ident="eng">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="#otash">
+          <term type="genre"/>
+        </keywords>
+        <keywords scheme="#lcsh">
+          <term type="genre">Plays -- England -- 16th century</term>
+          <term type="genre">Plays -- England -- 17th century</term>
+          <term type="genre">Comedies -- England -- 16th century</term>
+          <term type="genre">Comedies -- England -- 17th century</term>
+          <term type="genre">Tragedies -- England -- 16th century</term>
+          <term type="genre">Tragedies -- England -- 17th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change><date>2001-01-25</date><label>Cataloguer</label><name>Webb, Anton</name>Header changed in accordance with ISBD(ER) guidelines and expanded. Validated in the TEI Lite DTD using XMetal 2.0
+      </change>
+      <change><date when="1998-01-14">14 Jan 1998</date><label>cvt (converter)</label><name>Burnard, Lou</name>Header auto-generated from TOMES
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="OTA-filemap" rend="visible" n="unrestricted">
+        <ab type="file">
+          <seg type="part">1</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="1h4.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">2</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="1h6.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">3</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="2h4.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">4</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="2h6.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">5</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="3h6.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">6</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="ant.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">7</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="aww.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">8</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="ayl.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">9</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="ce.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">10</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="cor.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">11</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="cym.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">12</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="wt.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">13</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="h5.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">14</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="h8.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">15</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="ham.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">16</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="jc.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">17</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="kj.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">18</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="kl.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">19</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="lll.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">20</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="mac.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">21</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="man.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">22</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="mm.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">23</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="mnd.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">24</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="mv.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">25</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="mww.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">26</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="oth.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">27</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="pre.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">28</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="r2.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">29</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="r3.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">30</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="rom.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">31</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="shakdoc.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">32</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="tem.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">33</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="tgv.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">34</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="tim.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">35</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="tit.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">36</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="tn.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">37</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="tro.0119"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">38</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="ts.0119"/>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>
